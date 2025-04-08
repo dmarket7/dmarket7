@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there, I'm Dario Mercado 👋
 <!--
 **dmarket7/dmarket7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Software Engineer | MBA | Former banker | Entrepreneur
+
+- 🔭 I’m currently working on a few stealth projects
+- 🌱 I’m currently learning how to leverage AI in apps
+- 👯 I’m looking to collaborate on sharing knowledge, network and resources
+- 🤔 I’m looking for help with finding good resources to learn how to teach AI to others
+- 💬 Ask me about startup banking, project management app development, sports...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dariomercado/)
