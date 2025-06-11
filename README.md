@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a few pre-revenue projects
     Some of these include:
-  - [YRecommend](https://yrecommend.com/) A app focused on connecting people for professional and business referrals. It leverages the trust and network effects that make referrals so powerful. This is currently a web app but will eventually be launched as a mobile app to allow for easier P2P connectivity.
+  - [YRecommend](https://yrecommend.com/) An app focused on connecting people for professional and business referrals. It leverages the trust and network effects that make referrals so powerful. This is currently a web app but will eventually be launched as a mobile app to allow for easier P2P connectivity.
   - A Sports Training app that will help coaches to manage their high performance youth team's workload.
   - A legal chatbot app that will be used to help consumers in a variety of domains.
 - 🌱 I’m currently learning how to leverage AI in apps
