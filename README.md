@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a few pre-revenue projects
     Some of these include:
+  - [SmartGantt](https://smart-gantt-frontend.vercel.app/) An app (in free beta) that is intended to become an agentic project planner and task manager. Having working on a project management app within the Kantata platform, I'm inspired to create something horizontal and agentic (a tool not just for developers and business users but also for individuals trying to manage their lives).
   - [YRecommend](https://yrecommend.com/) An app focused on connecting people for professional and business referrals. It leverages the trust and network effects that make referrals so powerful. This is currently a web app but will eventually be launched as a mobile app to allow for easier P2P connectivity.
   - A Sports Training app that will help coaches to manage their high performance youth team's workload.
   - A legal chatbot app that will be used to help consumers in a variety of domains.
